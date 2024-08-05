@@ -1,1 +1,1 @@
-# djista
+# dj-gram
